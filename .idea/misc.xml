@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/TwoSum/pom.xml" />
+        <option value="$PROJECT_DIR$/GroupAnagrams/pom.xml" />
+        <option value="$PROJECT_DIR$/LongestConsecutiveSequence/pom.xml" />
+        <option value="$PROJECT_DIR$/1.TwoSum/pom.xml" />
+        <option value="$PROJECT_DIR$/128.LongestConsecutiveSequence/pom.xml" />
+        <option value="$PROJECT_DIR$/49.GroupAnagrams/pom.xml" />
+        <option value="$PROJECT_DIR$/MoveZeroes/pom.xml" />
+        <option value="$PROJECT_DIR$/283.MoveZeroes/pom.xml" />
+        <option value="$PROJECT_DIR$/ContainerWithMostWater/pom.xml" />
+        <option value="$PROJECT_DIR$/11.ContainerWithMostWater/pom.xml" />
+        <option value="$PROJECT_DIR$/Sum/pom.xml" />
+        <option value="$PROJECT_DIR$/15. 3Sum/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
